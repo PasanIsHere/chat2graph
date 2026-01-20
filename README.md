@@ -1,7 +1,5 @@
 ## Setting Up Your `.env` File
 
-## Setting Up Your `.env` File
-
 This project needs a few secret values (like your database password / api keys) to run.
 We keep these in a special file called `.env`.
 
